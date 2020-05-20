@@ -1,5 +1,5 @@
 h2, h3 {color: blueviolet;}
-h1 :hover{
+h1 {
     background-color: brown;
     cursor: pointer;
 }
